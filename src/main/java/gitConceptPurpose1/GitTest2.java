@@ -11,6 +11,8 @@ public class GitTest2 {
 	}
 	public static void printMe() {
 		System.out.println("git test2 purpose for new test case");
+		System.out.println("Changed something for git test2 purpose for new test case");
+		
 	}
 
 }
